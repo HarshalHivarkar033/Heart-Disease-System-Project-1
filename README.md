@@ -1,8 +1,8 @@
 # Project Title
 ```
-Author(s): Your Name(s)
-Affiliation: Your University / Organization
-Date: Month Year
+Author(s): Hrshal Vijay Hivarkar
+Affiliation: Suryodaya College of Engineering & Technology
+Date: March 2026
 ```
 
 ## Abstract
